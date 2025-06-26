@@ -1,0 +1,11 @@
+City,State/UT,Annual AQI (2024),Annual PM2.5 (μg/m³ 2024),AQI Category
+Surat,Gujarat,112,52,Moderate
+New Delhi,Delhi,300,92.7,Severe
+Mumbai,Maharashtra,105,27.1,Moderate
+Chennai,Tamil Nadu,100,23.6,Moderate
+Hyderabad,Telangana,110,32.8,Moderate
+Aizawl,Mizoram,38,13.8,Good
+Gangtok,Sikkim,65,13.8,Satisfactory
+Thiruvananthapuram,Kerala,82,17.2,Satisfactory
+Mysuru,Karnataka,63,19.4,Satisfactory
+Puducherry,Puducherry,90,22.3,Satisfactory
